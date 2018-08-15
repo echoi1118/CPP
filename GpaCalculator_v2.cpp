@@ -10,8 +10,8 @@ ID block
 + Due Date    : Oct 7, 2015
 +---------------------------------------------------+
 
-Program statement:		This program reads students' grades
-						and calculates their GPAs.
+Program statement:	This program reads students' grades
+			and calculates their GPAs.
 
 ******************** Beginning of Algorithm ********************
 Step 1: Input
