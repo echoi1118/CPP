@@ -2,12 +2,12 @@
 
 ID block
 +---------------------------------------------------+
-+ Programmer  : Esther Choi							+
-+ Course      : Computer Science 1	    			+
-+ Lab Section :	0101 (MW at 10 am)	       			+
-+ Grader      :	M. Ghyam							+
-+ Assignment  :	Grade Report Program				+
-+ Due Date    : November 9, 2015					+
++ Programmer  : Esther Choi			    +
++ Course      : Computer Science 1	    	    +
++ Lab Section :	0101 (MW at 10 am)	       	    +
++ Grader      :	M. Ghyam			    +
++ Assignment  :	Grade Report Program		    +
++ Due Date    : November 9, 2015		    +
 +---------------------------------------------------+
 
 Program statement:		This program picks up names of students
