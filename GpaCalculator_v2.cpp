@@ -2,12 +2,12 @@
 
 ID block
 +---------------------------------------------------+
-+ Programmer  : Esther Choi						    +
-+ Course      : Computer Science 1	    			+
-+ Lab Section :	0101 (MW at 10 am)	       		    +
-+ Grader      :	M. Ghyam							+
-+ Assignment  :	GPA Calculator					  	+
-+ Due Date    : Oct 7, 2015							+
++ Programmer  : Esther Choi
++ Course      : Computer Science 1
++ Lab Section :	0101 (MW at 10 am)
++ Grader      :	M. Ghyam
++ Assignment  :	GPA Calculator
++ Due Date    : Oct 7, 2015
 +---------------------------------------------------+
 
 Program statement:		This program reads students' grades
