@@ -2,19 +2,19 @@
 
 ID block
 +---------------------------------------------------+
-+ Programmer  : Esther Choi			    +
-+ Course      : Computer Science 1	    	    +
-+ Lab Section :	0101 (MW at 10 am)	       	    +
-+ Grader      :	M. Ghyam			    +
-+ Assignment  :	Grade Report Program		    +
-+ Due Date    : November 9, 2015		    +
++ Programmer  : Esther Choi
++ Course      : Computer Science 1
++ Lab Section :	0101 (MW at 10 am)
++ Grader      :	M. Ghyam
++ Assignment  :	Grade Report Program
++ Due Date    : November 9, 2015	
 +---------------------------------------------------+
 
-Program statement:		This program picks up names of students
-						and their test scores from student.txt,
-						does calculations with those scores, and
-						displays the results out to the monitor
-						and to an output file.
+Program statement:	This program picks up names of students
+			and their test scores from student.txt,
+			does calculations with those scores, and
+			displays the results out to the monitor
+			and to an output file.
 
 ******************** Beginning of Algorithm ********************
 
