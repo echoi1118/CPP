@@ -2,17 +2,17 @@
 
 ID block
 +---------------------------------------------------+
-+ Programmer  : Esther Choi						    +
-+ Course      : Computer Science 1	    			+
-+ Lab Section :	0101 (MW at 10 am)	       		    +
-+ Grader      :	M. Ghyam							+
-+ Assignment  :	Perfect Number Finder			  	+
-+ Due Date    : October 19, 2015					+
++ Programmer  : Esther Choi
++ Course      : Computer Science 1
++ Lab Section :	0101 (MW at 10 am)
++ Grader      :	M. Ghyam
++ Assignment  :	Perfect Number Finder
++ Due Date    : October 19, 2015
 +---------------------------------------------------+
 
-Program statement:		This program finds and lists all perfect
-						numbers that fall between two user input
-						values.
+Program statement:	This program finds and lists all perfect
+			numbers that fall between two user input
+			values.
 
 ******************** Beginning of Algorithm ********************
 Step 1: Input
