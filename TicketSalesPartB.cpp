@@ -2,17 +2,17 @@
 
 ID block  
 +---------------------------------------------------+
-+ Programmer  : Esther Choi						    +
-+ Course      : Computer Science 1	    			+
-+ Lab Section :	0101 (MW at 10 am)	       		    +
-+ Grader      :	M. Ghyam							+
-+ Assignment  :	Ticket Sales Calculator, Part B  	+
-+ Due Date    : Sep. 28, 2015						+
++ Programmer  : Esther Choi
++ Course      : Computer Science 1
++ Lab Section :	0101 (MW at 10 am)
++ Grader      :	M. Ghyam
++ Assignment  :	Ticket Sales Calculator, Part B
++ Due Date    : Sep. 28, 2015
 +---------------------------------------------------+
 
-Program statement:		This program calculates ticket sales
-						after each game and calculates city
-						taxes based on total net sales.
+Program statement:	This program calculates ticket sales
+			after each game and calculates city
+			taxes based on total net sales.
 
 ******************** Beginning of Algorithm ********************	
 Step 1: Input
