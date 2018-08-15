@@ -2,18 +2,18 @@
 
 ID block
 +---------------------------------------------------+
-+ Programmer  : Esther Choi							+
-+ Course      : Computer Science 1	    			+
-+ Lab Section :	0101 (MW at 10 am)	       			+
-+ Grader      :	M. Ghyam							+
-+ Assignment  :	Interest Calculation Program		+
-+ Due Date    : November 18, 2015					+
++ Programmer  : Esther Choi
++ Course      : Computer Science 1
++ Lab Section :	0101 (MW at 10 am)
++ Grader      :	M. Ghyam
++ Assignment  :	Interest Calculation Program
++ Due Date    : November 18, 2015
 +---------------------------------------------------+
 
-Program statement:		This program processes the data in an
-						input file and calculates interest based
-						on the data and displays it to monitor and
-						output file.
+Program statement:	This program processes the data in an
+			input file and calculates interest based
+			on the data and displays it to monitor and
+			output file.
 
 ******************** Beginning of Algorithm ********************
 
