@@ -2,12 +2,12 @@
 
 ID block  
 +---------------------------------------------------+
-+ Programmer  : Esther Choi				+
-+ Course      : Computer Science 1	    		+
++ Programmer  : Esther Choi			+
++ Course      : Computer Science 1	    	+
 + Lab Section :	0101 (MW at 10 am)	       	+
 + Grader      :	M. Ghyam			+
 + Assignment  :	Ticket Sales Calculator, Part A	+
-+ Due Date    : Sep. 21, 2015				+
++ Due Date    : Sep. 21, 2015			+
 +---------------------------------------------------+
 
 Program statement:		This program calculates ticket sales
