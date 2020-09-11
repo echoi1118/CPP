@@ -1,11 +1,11 @@
 /*
 
-------------------
+-----------------------------------------
 Program Description:
 	
 	Program Lunch calculates the number of calories in a cheese sandwich. Each sandwich contains
 	2 slices of bread, 3 slices of cheese, 4 pieces of pickles, and 2 grams of mayonnaise.
--------------------
+-----------------------------------------
 
 */
 
