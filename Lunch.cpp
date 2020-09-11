@@ -22,7 +22,7 @@ int main()
 
 	int breadCalories = 63;				// Calories in a slice of bread
 	int cheeseCalories = 106;			// Calories in a slice of cheese
-	int mayonnaiseCalories = 49;		// Calories in 1 gram of mayonnaise
+	int mayonnaiseCalories = 49;			// Calories in 1 gram of mayonnaise
 	int pickleCalories = 25;			// Calories in a slice of pickle
 
 	float breadSlices;					// Variables that store user input for
