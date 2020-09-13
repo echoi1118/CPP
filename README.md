@@ -1,4 +1,4 @@
-# CPP
+# CS1 Projects
 
 My C++ projects from ElCo's CompSci1 course. Easy stuff, but posted here for all the fun memories~
 
